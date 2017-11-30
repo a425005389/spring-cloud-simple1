@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: cloud-simple-helloword
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: spring.boot
+Build-Jdk: 1.7.0_80
+Built-By: aishaonan
+Created-By: Maven Integration for Eclipse
+
